@@ -55,6 +55,7 @@ And I’m just getting started.
 If you're curious about my work, check out my [GitHub](https://github.com/MrSpecks) and connect with me on [LinkedIn](https://www.linkedin.com/in/kagiso-mfusi-95b329224/). I'm always open to collaborating, sharing resources, and learning together.
 
 > _"I believe in building with purpose, learning with intent, and creating solutions that make a difference."_  
-Thanks for reading. Here's to building, learning, and taking the scenic route with purpose. 🌱
 
 — Kagiso
+
+Thanks for reading. Here's to building, learning, and taking the scenic route with purpose. 🌱
