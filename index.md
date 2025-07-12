@@ -1,5 +1,5 @@
 ---
-title: Kagiso's Tech Journey 🚀
+title: Kagiso's Tech Journal 
 ---
 
 # 👋 Hey there, I’m Kagiso!
