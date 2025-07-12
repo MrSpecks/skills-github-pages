@@ -1,0 +1,42 @@
+title: Kagiso's Tech Journal 🚀
+description: Exploring ideas, building projects, and sharing lessons from my tech journey.
+author: Kagiso Mfusi
+theme: minima
+
+# Personalization
+email: kagisomfusi28@gmail.com 
+linkedin_username: Kagiso Mfusi
+github_username: MrSpecks
+
+# Appearance tweaks (enabled via minima)
+show_excerpts: true
+paginate: 5
+paginate_path: "/page:num/"
+
+# Social links (minima supports these natively)
+social_links:
+  - platform: github
+    user_url: https://github.com/MrSpecks
+  - platform: linkedin
+    user_url: https://www.linkedin.com/in/kagiso-mfusi-95b329224/
+
+# Google Fonts or Custom Styling (optional with further tweaks)
+# If you want to go further with custom fonts/colors:
+# Add custom styles via assets/main.scss and enable in config:
+sass:
+  style: compressed
+
+# Future-proofing: Blog posts and assets
+collections:
+  posts:
+    output: true
+    permalink: /:title/
+
+# Optional: Favicon or site logo (upload to /assets/images)
+# favicon: "/assets/images/favicon.ico"
+# logo: "/assets/images/logo.png"
+
+# Optional: Markdown enhancements
+markdown: kramdown
+kramdown:
+  input: GFM
