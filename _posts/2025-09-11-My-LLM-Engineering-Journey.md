@@ -5,7 +5,7 @@ date: 2025-09-11
 
 # Embarking on My LLM Engineering Journey 🤖🚀
 
-Hey everyone, I'm Kagiso Mfusi. Recently, I took a deep dive into the world of **Large Language Models (LLMs)**, documenting my learning and experiments in a dedicated GitHub repository: [LLM Engineering Projects](https://github.com/MrSpecks/LLM-Engineering-Projects).  
+Recently, I took a deep dive into the world of **Large Language Models (LLMs)**, documenting my learning and experiments in a dedicated GitHub repository: [LLM Engineering Projects](https://github.com/MrSpecks/LLM-Engineering-Projects).  
 
 This post is a glimpse into how I’m navigating this exciting, fast-evolving space, and why I decided to commit to mastering LLM Engineering.
 
